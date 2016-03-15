@@ -13,5 +13,11 @@ This code utilizes the arbitrary precision [mpmath Python library](http://mpmath
 
 # Brief Description
 https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula
+
 http://mathworld.wolfram.com/BBPFormula.html
+
 https://en.wikipedia.org/wiki/Spigot_algorithm
+
+http://bellard.org/pi/pi_n2/pi_n2.html
+
+https://stackoverflow.com/questions/5905822/function-to-find-the-nth-digit-of-pi
